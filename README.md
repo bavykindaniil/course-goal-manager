@@ -1,1 +1,1 @@
-# course-goal-manager
+[Course Goal Manager](https://bavykindaniil.github.io/course-goal-manager/)
